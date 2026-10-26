@@ -5,28 +5,8 @@
 </div>
 
 <div align="center">
-  <div id="typewriter-container">
-    <span id="typewriter"></span>
-  </div>
+  <img src="https://typewriter-widget.herokuapp.com/typewriter?texts=Full-Stack%20Engineer,Backend%20Automation%20Specialist,Database%20Designer&color=%23008080&speed=75" alt="Typewriter Animation" width="400" />
 </div>
-
-<script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
-<script>
-  var typewriter = new Typewriter(document.getElementById('typewriter'), {
-    loop: true,
-    delay: 75,
-  });
-  typewriter
-    .typeString('Full-Stack Engineer')
-    .pauseFor(1500)
-    .deleteAll()
-    .typeString('Backend Automation Specialist')
-    .pauseFor(1500)
-    .deleteAll()
-    .typeString('Database Designer')
-    .pauseFor(1500)
-    .start();
-</script>
 
 <hr style="border: 2px solid #008080; width: 50%; margin: 20px auto;">
 

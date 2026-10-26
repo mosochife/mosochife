@@ -1,5 +1,9 @@
 # Ochife Moses | Full-Stack Software Engineer
 
+<p align="left">
+  <img src="https://herokuapp.com" alt="Typewriter Animation" />
+</p>
+
 > Transforming complex operational and business challenges into scalable, production-ready software systems.
 
 ---
@@ -19,9 +23,9 @@
 
 | Layer | Tools & Technologies |
 | :--- | :--- |
-| **Backend Core** | ![Python](https://shields.io) ![Go](https://shields.io) |
-| **Frontend Architecture** | ![React](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io) |
-| **Data & Cloud Infra** | ![Supabase](https://shields.io) ![Neon](https://shields.io) ![PostgreSQL](https://shields.io) |
+| **Backend Core** | <img src="https://shields.io" /> <img src="https://shields.io" /> |
+| **Frontend Architecture** | <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> |
+| **Data & Cloud Infra** | <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> |
 
 ---
 

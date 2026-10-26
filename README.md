@@ -32,6 +32,6 @@ A user-friendly interface for citizens to report local issues, track their statu
 
 Ready to build something impactful? I am open to freelance projects, full-time roles, and collaborative ventures.
 
-📧 **Email:** [your.email@example.com](mailto:ochifemoses1988@gmail.com)
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-💻 **GitHub:** [github.com/yourusername](https://github.com/mosochife)
+📧 **Email:** [ochifemoses1988@gmail.com](mailto:ochifemoses1988@gmail.com)
+🔗 **LinkedIn:** [linkedin.com/in/mosochife](https://linkedin.com/in/mosochife)
+💻 **GitHub:** [github.com/mosochife](https://github.com/mosochife)

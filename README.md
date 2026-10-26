@@ -1,7 +1,13 @@
-<h1 align="center">Ochife Moses</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ochife%20Moses&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" alt="Header banner" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Backend+Architecture+%26+Real-Time+Data+Pipelines;Python+%7C+Go+%7C+React+%7C+Supabase;Turning+real+problems+into+working+software" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF4D8D&center=true&vCenter=true&width=700&lines=Backend+Architecture+%26+Real-Time+Data+Pipelines;Python+%7C+Go+%7C+React+%7C+Supabase;Turning+real+problems+into+working+software" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="80%" alt="divider" />
 </p>
 
 > Transforming complex operational and business challenges into scalable, production-ready software systems.

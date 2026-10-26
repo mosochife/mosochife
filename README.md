@@ -2,11 +2,33 @@
 
 # ⚡ Full-Stack Engineer
 
-**Building robust, scalable, and user-centric web applications from database to frontend.**
-
 </div>
 
----
+<div align="center">
+  <div id="typewriter-container">
+    <span id="typewriter"></span>
+  </div>
+</div>
+
+<script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
+<script>
+  var typewriter = new Typewriter(document.getElementById('typewriter'), {
+    loop: true,
+    delay: 75,
+  });
+  typewriter
+    .typeString('Full-Stack Engineer')
+    .pauseFor(1500)
+    .deleteAll()
+    .typeString('Backend Automation Specialist')
+    .pauseFor(1500)
+    .deleteAll()
+    .typeString('Database Designer')
+    .pauseFor(1500)
+    .start();
+</script>
+
+<hr style="border: 2px solid #008080; width: 50%; margin: 20px auto;">
 
 <div align="center">
 
@@ -32,20 +54,35 @@
 
 </div>
 
-### 🛡️ Community SecurityGard
-> *Incident tracking & threat detection platform.*
+<div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 10px 0; border-left: 5px solid #343a40;">
+  <h3 style="margin-top: 0; color: #343a40;">🛡️ Community SecurityGard</h3>
+  <p style="font-weight: bold; color: #6c757d; margin-bottom: 5px;">Incident tracking & threat detection platform.</p>
+  <p>A comprehensive tool designed to help communities monitor, report, and analyze security incidents in real-time, featuring automated threat detection alerts.</p>
+</div>
 
-A comprehensive tool designed to help communities monitor, report, and analyze security incidents in real-time, featuring automated threat detection alerts.
+<div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 10px 0; border-left: 5px solid #343a40;">
+  <h3 style="margin-top: 0; color: #343a40;">📚 Idoma Flashcards</h3>
+  <p style="font-weight: bold; color: #6c757d; margin-bottom: 5px;">Language edtech vocabulary engine.</p>
+  <p>An educational platform focused on Idoma language acquisition, utilizing spaced repetition algorithms to optimize vocabulary retention and learning efficiency.</p>
+</div>
 
-### 📚 Idoma Flashcards
-> *Language edtech vocabulary engine.*
+<div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 10px 0; border-left: 5px solid #343a40;">
+  <h3 style="margin-top: 0; color: #343a40;">🏛️ Community Issue Reporter</h3>
+  <p style="font-weight: bold; color: #6c757d; margin-bottom: 5px;">Streamlined civic feedback system.</p>
+  <p>A user-friendly interface for citizens to report local issues, track their status, and engage with municipal services, improving transparency and response times.</p>
+</div>
 
-An educational platform focused on Idoma language acquisition, utilizing spaced repetition algorithms to optimize vocabulary retention and learning efficiency.
+---
 
-### 🏛️ Community Issue Reporter
-> *Streamlined civic feedback system.*
+<div align="center">
 
-A user-friendly interface for citizens to report local issues, track their status, and engage with municipal services, improving transparency and response times.
+## 📊 Code Quality & Activity
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mosochife&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</div>
 
 ---
 
@@ -57,7 +94,9 @@ Ready to build something impactful? I am open to freelance projects, full-time r
 
 <br>
 
-📧 **Email** | 🔗 **LinkedIn** | 🐙 **GitHub**
-[ochifemoses1988@gmail.com](mailto:ochifemoses1988@gmail.com) | [linkedin.com/in/mosochife](https://linkedin.com/in/mosochife) | [github.com/mosochife](https://github.com/mosochife)
+<div style="background-color: #2d3436; color: #dfe6e9; padding: 20px; border-radius: 10px; display: inline-block;">
+  <p style="margin: 5px 0;">📧 <a href="mailto:ochifemoses1988@gmail.com" style="color: #74b9ff; text-decoration: none;">ochifemoses1988@gmail.com</a></p>
+  <p style="margin: 5px 0;">🔗 <a href="https://linkedin.com/in/mosochife" style="color: #74b9ff; text-decoration: none;">LinkedIn</a> | 🐙 <a href="https://github.com/mosochife" style="color: #74b9ff; text-decoration: none;">GitHub</a></p>
+</div>
 
 </div>

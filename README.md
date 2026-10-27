@@ -37,6 +37,13 @@
 
 ### 📂 Featured Projects
 
+#### 🧮 **Scientific Calculator**
+*Web-based calculator with a safe, hand-written expression parser*
+- **Live demo:** [scientific-calculator-taeg.onrender.com](https://scientific-calculator-taeg.onrender.com)
+- **Source code:** [github.com/mosochife/scientific_calculator](https://github.com/mosochife/scientific_calculator)
+- **Engineering Action:** Built a tokenizer and recursive descent parser (no `eval()`), a Flask JSON API, and a responsive web interface, covered by automated tests and deployed on Render.
+- **Tech Stack:** Python, Flask, JavaScript, HTML5/CSS3, pytest, gunicorn.
+
 #### 🛡️ **Community SecurityGard**
 *Incident Tracking & Real-Time Threat Detection Platform*
 - **Engineering Action:** Built geographic threat monitoring modules, incident coordination dashboards, and real-time response communication structures.

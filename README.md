@@ -1,37 +1,33 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ochife%20Moses&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ochife%20Moses&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Aspiring%20AI%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" alt="Header banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF4D8D&center=true&vCenter=true&width=700&lines=Backend+Architecture+%26+Real-Time+Data+Pipelines;Python+%7C+Go+%7C+React+%7C+Supabase;Turning+real+problems+into+working+software" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF4D8D&center=true&vCenter=true&width=700&lines=Python+Developer;Aspiring+AI+Engineer;Building+and+deploying+real+projects;Turning+real+problems+into+working+software" alt="Typing animation" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="80%" alt="divider" />
-</p>
-
-> Transforming complex operational and business challenges into scalable, production-ready software systems.
+> I build small, complete web projects with Python and Flask, test them, and put them online so people can use them.
 
 ---
 
-### 💻 System Engineering Profile
-```json
-{
-  "status": "Available for Strategic Contract Operations & Remote Roles",
-  "specialization": "Performant Backend Architecture & Real-Time Data Pipelines",
-  "primary_stack": ["Python", "Go", "React", "Supabase", "Neon DB"]
-}
-```
+### 👋 About Me
+
+I started learning to code from zero and I learn by building real projects. I'm working toward becoming an AI engineer.
+
+- 🔭 **Currently building:** portfolio projects that solve real-world problems
+- 🌱 **Currently learning:** AI engineering, data analysis and chatbots
+- 🧪 **How I work:** build, test, fix, understand, then deploy
 
 ---
 
-### 🛠️ Core Technological Capabilities
+### 🛠️ Skills
 
-| Layer | Tools & Technologies |
+| Area | Tools |
 | :--- | :--- |
-| **Backend Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
-| **Frontend Architecture** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| **Data & Cloud Infra** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Backend & Data** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Tools & Deployment** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black) |
 
 ---
 
@@ -49,11 +45,10 @@
 - **Engineering Action:** Built geographic threat monitoring modules, incident coordination dashboards, and real-time response communication structures.
 - **Tech Stack:** Python, Cloud Serverless Databases, Geolocation Processing Interfaces.
 
-#### 📚 **Idoma Flashcards**
-*Algorithmic Vocabulary Acquisition Engine*
-- **Engineering Action:** Designed an interactive edtech platform using state-persistence frameworks and spaced-repetition memory optimization algorithms.
-- **Tech Stack:** Go Core Services, React UI Framework, Context State Management.
-
+#### 📚 **Idoma Flashcards** *(in progress)*
+*Flashcard app for learning Idoma vocabulary*
+- **Engineering Action:** Building a Flask and SQLite app from a dataset of Idoma homographs (130 words across 45 spellings). Study mode flips each word to show its meaning, and a quiz mode is next.
+- **Tech Stack:** Python, Flask, SQLite, HTML5/CSS3.
 #### 🏛️ **Community Issue Reporter**
 *Streamlined Civic Auditing & Feedback System*
 - **Engineering Action:** Standardized public infrastructure issue tracking with data pipelines from submission entry points to status notification triggers.
@@ -61,9 +56,9 @@
 
 ---
 
-### 🤝 Strategic Collaboration & Engineering Support
+### 🤝 Let's Connect
 
-If you need a reliable engineer to build a high-performance API, design an architectural data layer, or ship a secure MVP, let's talk.
+I'm happy to talk about projects, collaboration or opportunities.
 
 - 📧 **Email:** [ochifemoses1988@gmail.com](mailto:ochifemoses1988@gmail.com)
 - 💼 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/mosochife)

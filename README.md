@@ -40,10 +40,10 @@ I started learning to code from zero and I learn by building real projects. I'm 
 - **Engineering Action:** Built a tokenizer and recursive descent parser (no `eval()`), a Flask JSON API, and a responsive web interface with voice input and read-aloud, covered by automated tests and deployed on Render.
 - **Tech Stack:** Python, Flask, JavaScript, HTML5/CSS3, pytest, gunicorn.
 
-#### 🛡️ **Community SecurityGard**
-*Incident Tracking & Real-Time Threat Detection Platform*
-- **Engineering Action:** Built geographic threat monitoring modules, incident coordination dashboards, and real-time response communication structures.
-- **Tech Stack:** Python, Cloud Serverless Databases, Geolocation Processing Interfaces.
+#### 🛡️ **Community SecurityGard** *(in progress)*
+*Community safety platform for reporting and tracking security incidents*
+- **Goal:** Let residents report incidents in their area and help local groups coordinate a response.
+- **Status:** Early development and not deployed yet. Planned features include location-based incident reporting and a dashboard.
 
 #### 📚 **Idoma Flashcards** *(in progress)*
 *Flashcard app for learning Idoma vocabulary*

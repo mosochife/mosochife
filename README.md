@@ -37,7 +37,7 @@ I started learning to code from zero and I learn by building real projects. I'm 
 *Web-based calculator with a safe, hand-written expression parser*
 - **Live demo:** [scientific-calculator-taeg.onrender.com](https://scientific-calculator-taeg.onrender.com)
 - **Source code:** [github.com/mosochife/scientific_calculator](https://github.com/mosochife/scientific_calculator)
-- **Engineering Action:** Built a tokenizer and recursive descent parser (no `eval()`), a Flask JSON API, and a responsive web interface, covered by automated tests and deployed on Render.
+- **Engineering Action:** Built a tokenizer and recursive descent parser (no `eval()`), a Flask JSON API, and a responsive web interface with voice input and read-aloud, covered by automated tests and deployed on Render.
 - **Tech Stack:** Python, Flask, JavaScript, HTML5/CSS3, pytest, gunicorn.
 
 #### 🛡️ **Community SecurityGard**
@@ -49,11 +49,13 @@ I started learning to code from zero and I learn by building real projects. I'm 
 *Flashcard app for learning Idoma vocabulary*
 - **Engineering Action:** Building a Flask and SQLite app from a dataset of Idoma homographs (130 words across 45 spellings). Study mode flips each word to show its meaning, and a quiz mode is next.
 - **Tech Stack:** Python, Flask, SQLite, HTML5/CSS3.
-#### 🏛️ **Community Issue Reporter**
-*Streamlined Civic Auditing & Feedback System*
-- **Engineering Action:** Standardized public infrastructure issue tracking with data pipelines from submission entry points to status notification triggers.
-- **Tech Stack:** Python, Flask, HTML5/CSS3.
 
+#### 🏛️ **Community Issue Reporter**
+*Web app for reporting and tracking local community issues*
+- **Live demo:** [holime.pythonanywhere.com](https://holime.pythonanywhere.com)
+- **Source code:** [github.com/mosochife/community-issue-reporter](https://github.com/mosochife/community-issue-reporter)
+- **Engineering Action:** Built a report form, an issue list with a category filter, and detail pages with status updates, backed by a SQLite database and deployed on PythonAnywhere.
+- **Tech Stack:** Python, Flask, SQLite, HTML5/CSS3.
 ---
 
 ### 🤝 Let's Connect
